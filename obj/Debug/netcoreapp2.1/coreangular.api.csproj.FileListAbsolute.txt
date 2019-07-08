@@ -1,0 +1,15 @@
+C:\Users\Brian\Desktop\Udemy\coreangular.api\bin\Debug\netcoreapp2.1\coreangular.api.deps.json
+C:\Users\Brian\Desktop\Udemy\coreangular.api\bin\Debug\netcoreapp2.1\coreangular.api.runtimeconfig.json
+C:\Users\Brian\Desktop\Udemy\coreangular.api\bin\Debug\netcoreapp2.1\coreangular.api.runtimeconfig.dev.json
+C:\Users\Brian\Desktop\Udemy\coreangular.api\bin\Debug\netcoreapp2.1\coreangular.api.dll
+C:\Users\Brian\Desktop\Udemy\coreangular.api\bin\Debug\netcoreapp2.1\coreangular.api.pdb
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.RazorAssemblyInfo.cache
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.RazorAssemblyInfo.cs
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.AssemblyInfoInputs.cache
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.AssemblyInfo.cs
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.RazorTargetAssemblyInfo.cache
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.dll
+C:\Users\Brian\Desktop\Udemy\coreangular.api\obj\Debug\netcoreapp2.1\coreangular.api.pdb

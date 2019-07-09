@@ -53,7 +53,9 @@ namespace coreangular.api
             app.UseHttpsRedirection();
             // 데이터를봐야하기때문에
             seed.SeedData(20, 1000);
-            app.UseMvc();
+            app.UseMvc(routes => routes.MapRoute(
+                "default", "api/{controller}/{action}/{id?}"
+            ));
 
         }
     }

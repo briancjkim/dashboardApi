@@ -37,7 +37,7 @@ namespace coreangular.api
         }
 
         private static readonly List<string> auStates = new List<string>(){
-            "NSW","QLD","VIC","ACT","NT","SA","WA","Tas"
+            "NSW","QLD","VIC","ACT","NT","SA","WA","TAS"
         };
         private static readonly List<string> bizPrefix = new List<string>()
         {
